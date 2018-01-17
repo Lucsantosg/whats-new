@@ -256,7 +256,7 @@ The Liberty buildpack v3.9 provides new monthly Liberty runtime version and cont
 ## Services
 {: #services_category}
 
-### {{site.data.keyword.discoveryfull}} {{site.data.keyword.visualinsightsshort}}
+### Watson Discovery Visual Insights
 New as of: 30 November 2017
 
 Visually explore connections powered by {{site.data.keyword.discoveryshort}}'s understanding of semantic elements detected in text, such as entities, relationships, concepts, and more.
