@@ -6,7 +6,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-17" 
+lastupdated: "2018-01-18" 
 
 ---
 
@@ -339,7 +339,7 @@ App Owners can now accelerate the delivery of innovations to mobile apps by avoi
 
 For more information, see the [Getting started tutorial](/docs/services/app-launch/index.html#gettingstartedtemplate).
 
-### Updates to {{site.data.keyword.relationshipextractionfull}}
+### Updates to {{site.data.keyword.ibmwatson_notm}} {{site.data.keyword.relationshipextractionshort}}
 New as of: 4 October 2017
 
 A new customization capability and new language models are available for user by {{site.data.keyword.relationshipextractionshort}}. The new languages are Dutch, Korean, and Simplified-Chinese support for WKS.
@@ -351,7 +351,7 @@ You can now update your clusters to the latest available version of Kubernetes i
 
 For more information, check out [Kubernetes 1.7 available in {{site.data.keyword.containerlong_notm}}](https://www.ibm.com/blogs/bluemix/2017/09/kubernetes-1-7-available-ibm-bluemix-container-service/){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon").
 
-### New {{site.data.keyword.iva_full}} experimental service
+### New IBM Voice Agent with Watson experimental service
 New as of: 15 September 2017
 
 With the new {{site.data.keyword.iva_full}} experimental service, you can create a cognitive voice agent built on Watson services that customers can call and speak to over the phone. With Watson artificial intelligence at its backbone, your voice agent can communicate in a conversational manner, handling complex interactions and solving customer calls within the voice agent.
