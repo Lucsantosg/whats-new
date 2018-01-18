@@ -449,7 +449,7 @@ The legacy {{site.data.keyword.monitoringshort}} service collected metrics at se
 
 For more information about the {{site.data.keyword.monitoringlong}} service, refer to [the Getting started with Monitoring documentation](/docs/services/cloud-monitoring/index.html#getting-started-with-ibm-cloud-monitoring) or [the IBM Cloud Monitoring – Service Refresh with New Features![External link icon](../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/blogs/bluemix/2017/07/ibm-cloud-monitoring-service-refresh-new-features/).
 
-### {{site.data.keyword.contdelivery_full}} upgrade
+### {{site.data.keyword.contdelivery_short}} upgrade
 New as of: 11 July 2017
 
 Benefits of the upgrade include bug fixes, performance improvements, and refinements to the user experience. Noteworthy enhancements, if not already present on your environment, include:
@@ -462,7 +462,7 @@ Benefits of the upgrade include bug fixes, performance improvements, and refinem
 <li>Support for UI themes in the Orion Web IDE.</li>
 </ul>
 
-### {{site.data.keyword.uccr_full}} beta 
+### {{site.data.keyword.uccr_short}} beta 
 New as of: 23 June 2017
 
 {{site.data.keyword.uccr_short}} is an enterprise-scale release management solution that supports both cloud-native and on-prem deployment tools.
@@ -474,7 +474,7 @@ The beta version of {{site.data.keyword.uccr_short}} provides the following key 
 * Customize calendar events to fit your organization.
 * Use email and Slack type tasks for release notifications.
 
-### dashDB for Transactions has been renamed to {{site.data.keyword.DB2OnCloud_short}}
+### dashDB for Transactions has been renamed to {{site.data.keyword.DB2_on_Cloud_short}}
 New as of: 14 June 2017
 
 IBM {{site.data.keyword.DB2OnCloud_short}} is the new name for dashDB for Transactions. As part of this renaming the former self-managed IBM {{site.data.keyword.DB2OnCloud_short}} service will also be renamed to IBM Db2 Hosted. At this time only display names are updated, so any APIs or command line interfaces remain unchanged.
@@ -490,12 +490,12 @@ The Apache Spark accesses IBM Cloud Object Storage data through a storage connec
 
 Please reach out to us at [sparksrv@us.ibm.com](sparksrv@us.ibm.com), if you have any questions or comments. Your input is greatly appreciated!
 
-### New scalable plan available for {{site.data.keyword.dashdbshort}} for Transactions
+### New scalable plan available for {{site.data.keyword.dashdbshort_notm}} for Transactions
 New as of: 31 May 2017
 
 A new plan is available for {{site.data.keyword.dashdbshort}} for Transactions that can grow with your database needs. The new Flex plan allows you to start with a small system and grow the power and storage capacity of that system easily and quickly. {{site.data.keyword.dashdbshort}} for Transactions is 100% DB2-compatible and provides a 99.95% SLA on high availability plans.
 
-### New Updates to  {{site.data.keyword.mobilepush}} service on {{site.data.keyword.Bluemix_notm}}
+### New Updates to {{site.data.keyword.mobilepush}} service on {{site.data.keyword.Bluemix_notm}}
 New as of: 24 May 2017
 
 The following are the new updates available for {{site.data.keyword.mobilepush}} service on {{site.data.keyword.Bluemix_notm}}
@@ -511,7 +511,7 @@ New as of: 24 May 2017
 
 The latest Secure Gateway maintenance update includes minor bug fixes in the UI and API manager, updated documentation, and the client has been updated to version 1.7.1. The Secure Gateway client is now available on AIX 7.1+ and supports connecting outbound through a squid proxy.
 
-### {{site.data.keyword.streaminganalyticsfull}} service updates: Develop Streams applications in your Python development environment
+### {{site.data.keyword.streaminganalyticsshort}} service updates: Develop Streams applications in your Python development environment
 New as of: 13 April 2017
 
 In the past, you had to install a local version of IBM Streams to develop Python applications. That’s no longer the case. Now you can develop applications with Python in your favorite development environment or in a Jupyter interactive notebook.
@@ -529,12 +529,12 @@ New as of: 21 April 2017
 
 We are happy to answer any questions related to {{site.data.keyword.sparkl}} or the newer version of Apache Spark 2.1 and are reachable at sparksrv@us.ibm.com. 
 
-### {{site.data.keyword.macm_long}} is being deprecated
+### {{site.data.keyword.macm_short}} is being deprecated
 New as of: 18 April 2017
 
 As of March 30th, 2017, {{site.data.keyword.macm_long}} service tile will be removed from the {{site.data.keyword.Bluemix_notm}} Catalog and you will no longer be able to provision new MACM instances. However, existing instances will continue to be supported. The End of Support Date is 30 March 2018. Please delete your {{site.data.keyword.macm_short}} (MACM) service instances before the End of Support Date. We encourage users to migrate to the IBM Watson Content Hub. Watson Content Hub is available on IBM Marketplace and provides users with a 30-day free trial. IBM Watson Content Hub provides similar functionality to MACM with added new capabilities such as asset management, cognitive tagging using IBM Watson services, and included content delivery network (CDN) to ensure an optimal experience for your customers. IBM offers service engagments to migrate content from MACM to Watson Content Hub.
 
-### {{site.data.keyword.streaminganalyticsfull}} service updates: Develop Streams applications in your Python development environment
+### {{site.data.keyword.streaminganalyticsshort}} service updates: Develop Streams applications in your Python development environment
 New as of: 13 April 2017
 
 In the past, you had to install a local version of IBM Streams to develop Python applications. That’s no longer the case. Now you can develop applications with Python in your favorite  development environment or in a Jupyter interactive notebook.
@@ -543,7 +543,7 @@ You can use the STREAMING_ANALYTICS_SERVICE context to submit a Python applicati
 
 Check out the sample stream-processing Python applications in notebooks on the [community page of IBM Data Science Experience](http://datascience.ibm.com){: new_window} ![External link icon](../icons/launch-glyph.svg "External link icon"). 
 
-### {{site.data.keyword.sparkl}} updates: Notebook support now in Data Science Experience
+### {{site.data.keyword.sparks}} updates: Notebook support now in Data Science Experience
 New as of: 11 April 2017
 
 Your new platform to work with notebooks and Spark is Data Science Experience. Sign up to [Data Science Experience](http://datascience.ibm.com/), and start creating notebooks and sharing your expertise with other data scientists.
