@@ -6,7 +6,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-18" 
+lastupdated: "2018-01-19" 
 
 ---
 
@@ -255,6 +255,11 @@ The Liberty buildpack v3.9 provides new monthly Liberty runtime version and cont
 
 ## Services
 {: #services_category}
+
+### {{site.data.keyword.containershort_notm}}: Kubernetes 1.8.x support
+New as of: 19 January 2018
+
+Since November 2017 the {{site.data.keyword.containershort_notm}} has supported Kubernetes `1.8.x`. We are proud to announce our default version of Kubernetes is now `1.8.6`.  In the near future, we will be providing support for `1.9.x`.
 
 ### Watson Discovery Visual Insights
 New as of: 30 November 2017
