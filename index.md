@@ -6,7 +6,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-02-01" 
+lastupdated: "2018-02-15" 
 
 ---
 
@@ -255,6 +255,18 @@ The Liberty buildpack v3.9 provides new monthly Liberty runtime version and cont
 
 ## Services
 {: #services_category}
+
+### {{site.data.keyword.streaminganalyticsshort}} updates
+New as of: 14 Februrary 2018 
+
+The [Beta - Entry and Beta- Enhanced plans](/docs/services/StreamingAnalytics/beta_plans.html#beta_plans) for the console in the [{{site.data.keyword.streaminganalyticsshort}} service](https://console.bluemix.net/catalog/services/streaming-analytics){: new_window} ![External link icon](../../icons/launch-glyph.svg "External link icon") includes several enhancements:
+ 
+* [New IBM Streams QSE for Docker](https://www-01.ibm.com/marketing/iwm/iwm/web/preLogin.do?source=swg-ibmistvi){: new_window} ![External link icon](../../icons/launch-glyph.svg "External link icon"): Check out the [Beta Development Guide](https://developer.ibm.com/streamsdev/docs/cloud-beta-devguide/){: new_window} ![External link icon](../../icons/launch-glyph.svg "External link icon") to learn how to use the new Streams QSE with RHEL 7 running in a Docker environment to compile and deploy your applications with the new {{site.data.keyword.streaminganalyticsshort}} beta plans. 
+* [{{site.data.keyword.streaminganalyticsshort}} v2 REST API](https://console.bluemix.net/apidocs/1939-streaming-analytics-v2#introduction){: new_window} ![External link icon](../../icons/launch-glyph.svg "External link icon")
+* [New starter and sample applications](https://developer.ibm.com/streamsdev/docs/cloud-beta-samples/) 
+* [High-availability enhancements in the {{site.data.keyword.streaminganalyticsshort}} service](/docs/services/StreamingAnalytics/consistentregions.html#consistentregions)
+* [New problem determination features in the beta version of the {{site.data.keyword.streaminganalyticsshort}} service](https://developer.ibm.com/streamsdev/2018/02/15/streaming-analytics-console-gives-ways-find-fix-errors-beta-plans/){: new_window} ![External link icon](../../icons/launch-glyph.svg "External link icon")
+* [Monitoring how operators behave and guaranteed tuple processing in the cloud](https://developer.ibm.com/streamsdev/2018/02/15/monitor-operators-behave-ensure-resource-optimization/){: new_window} ![External link icon](../../icons/launch-glyph.svg "External link icon")
 
 ### {{site.data.keyword.containershort_notm}}: Kubernetes 1.8.x support
 New as of: 19 January 2018
