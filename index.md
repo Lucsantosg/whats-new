@@ -6,7 +6,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-02-15" 
+lastupdated: "2018-02-20" 
 
 ---
 
@@ -267,6 +267,15 @@ The [Beta - Entry and Beta- Enhanced plans](/docs/services/StreamingAnalytics/be
 * [High-availability enhancements in the {{site.data.keyword.streaminganalyticsshort}} service](/docs/services/StreamingAnalytics/consistentregions.html#consistentregions)
 * [New problem determination features in the beta version of the {{site.data.keyword.streaminganalyticsshort}} service](https://developer.ibm.com/streamsdev/2018/02/15/streaming-analytics-console-gives-ways-find-fix-errors-beta-plans/){: new_window} ![External link icon](../../icons/launch-glyph.svg "External link icon")
 * [Monitoring how operators behave and guaranteed tuple processing in the cloud](https://developer.ibm.com/streamsdev/2018/02/15/monitor-operators-behave-ensure-resource-optimization/){: new_window} ![External link icon](../../icons/launch-glyph.svg "External link icon")
+
+### {{site.data.keyword.keymanagementservicelong_notm}} expands into Sydney region
+New as of: 31 January 2018
+
+Effective today the {{site.data.keyword.keymanagementserviceshort}} encryption key management service is available in the Sydney region. Sydney is the third region after US South (Dallas) and London to offer GA status for {{site.data.keyword.keymanagementserviceshort}} users.
+
+{{site.data.keyword.keymanagementserviceshort}} is an encryption key management service that offers a simple and economical key management solution for managing keys that are used to encrypt data stored in the {{site.data.keyword.Bluemix_notm}}. {{site.data.keyword.keymanagementserviceshort}} manages the entire life-cycle of keys from key creation through application use, key archival, and key destruction, while also enforcing separation of duties between data management and key management.
+
+{{site.data.keyword.keymanagementserviceshort}} supports BYOK (Bring-Your-Own-Key – customer managed encryption) with applicable IBM data services. BYOK allows users to import master root-of-trust encryption keys created internally to better manage the security of their data-at-rest saved in the {{site.data.keyword.Bluemix_notm}}.
 
 ### {{site.data.keyword.containershort_notm}}: Kubernetes 1.8.x support
 New as of: 19 January 2018
