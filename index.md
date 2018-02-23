@@ -6,7 +6,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-02-20" 
+lastupdated: "2018-02-26" 
 
 ---
 
@@ -115,6 +115,17 @@ With this navigation update, we think you'll understand how content is organized
 
 ## {{site.data.keyword.Bluemix_local_notm}} and {{site.data.keyword.Bluemix_dedicated_notm}}
 {: #dedicatedandlocal}
+
+### February updates for the administration console
+{: #febadminconsole}
+New as of: 28 February 2018
+
+With the latest update from February 2018, you can use the following new feature:
+
+#### New permission for managing maintenance updates
+
+A new user permission has been introduced to specifically allow users to approve and reschedule maintenance updates, as well as to set up maintenance update windows that stipulate when maintenance updates can be deployed into a dedicated environment.
+See the [video demonstration](https://youtu.be/7c7jyp_JJWU){: new_window} ![External link icon](../../icons/launch-glyph.svg "External link icon") for more information.
 
 ### December updates for the administration console
 {: #decemberadminconsole}
