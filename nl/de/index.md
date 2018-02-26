@@ -6,7 +6,7 @@ copyright:
 
   years: 2015, 2018
 
-lastupdated: "2018-01-19" 
+lastupdated: "2018-02-01" 
 
 ---
 
@@ -31,7 +31,7 @@ In Washington, DCm ist jetzt ein neues Rechenzentrum für die Region 'US East' v
 ### Unterstützung für Ressourcen in der Europäischen Union
 Datum der Neuerung: 14. Dezember 2017
 
-Falls sich Ihre Services und Rechenzentren in Europa befinden, bietet {{site.data.keyword.Bluemix_notm}} jetzt ein zusätzliches Leistungsspektrum für den Schutz Ihrer Daten in der Europäischen Union. Sie können anfordern, dass der Support für Sie von Kundenunterstützungsteams bereitgestellt wird, die in Europa ansässig sind. Dieser Support ist täglich rund um die Uhr verfügbar. Weitere Informationen finden Sie in den Abschnitten [Option 'Unterstützung in der EU' aktivieren](/docs/pricing/eusupported.html#bill_eusupported) und [Unterstützung für Ressourcen in der EU anfordern](/docs/support/index.html#eusupported).
+Falls sich Ihre Services und Rechenzentren in Europa befinden, bietet {{site.data.keyword.Bluemix_notm}} jetzt ein zusätzliches Leistungsspektrum für den Schutz Ihrer Daten in der Europäischen Union. Sie können anfordern, dass der Support für Sie von Kundenunterstützungsteams bereitgestellt wird, die in Europa ansässig sind. Dieser Support ist täglich rund um die Uhr verfügbar. Weitere Informationen finden Sie in den Abschnitten [Option 'Unterstützung in der EU' aktivieren](/docs/billing-usage/eusupported.html#bill_eusupported) und [Unterstützung für Ressourcen in der EU anfordern](/docs/get-support/howtogetsupport.html#eusupported).
 
 ### Unterstützung für TLS 1.0 und 1.1 wird eingestellt
 Datum der Neuerung: 28. Dezember 2017
@@ -43,7 +43,7 @@ Datum der Neuerung: 16. November 2017
 
 Ressourcengruppen sind eine neue Möglichkeit für Sie, anpassbare Gruppierungen von Kontoressourcen zu erstellen; der Zugriff auf die Gruppe und die darin enthaltenen Ressourcen wird mithilfe von Identity and Access Management (IAM) verwaltet. Für jeden Benutzer ist anfangs eine Standardressourcengruppe vorhanden. Diese Ressourcengruppe können Sie umbenennen und neue Serviceinstanzen zu ihr hinzufügen, wenn Sie diese aus dem Katalog erstellen. 
 
-Benutzer mit einem nutzungsabhängigen Konto oder einem Abonnementkonto können weitere Ressourcengruppen erstellen, um die Verwaltung von Kontingenten und die Anzeige von Abrechnung und Nutzung für ein Ressourcenset zu vereinfachen. Durch die Gruppierung von Ressourcen wird außerdem die gleichzeitige Zuweisung von Zugriffsberechtigungen für mehrere Services an die Benutzer erleichtert. Weitere Informationen zum Arbeiten mit Ressourcengruppen für Ihr Konto finden Sie unter [Ressourcengruppen verwalten](/docs/admin/resourcegroups.html#rgs).
+Benutzer mit einem nutzungsabhängigen Konto oder einem Abonnementkonto können weitere Ressourcengruppen erstellen, um die Verwaltung von Kontingenten und die Anzeige von Abrechnung und Nutzung für ein Ressourcenset zu vereinfachen. Durch die Gruppierung von Ressourcen wird außerdem die gleichzeitige Zuweisung von Zugriffsberechtigungen für mehrere Services an die Benutzer erleichtert. Weitere Informationen zum Arbeiten mit Ressourcengruppen für Ihr Konto finden Sie unter [Ressourcengruppen verwalten](/docs/account/resourcegroups.html#rgs).
 
 ### Aktualisierungen für {{site.data.keyword.Bluemix_notm}} IAM
 Datum der Neuerung: 16. November 2017
@@ -66,33 +66,33 @@ Im neuen Support Center können Sie nach Informationen suchen, Fragen an die Ent
 ### Einführung von IBM Cloud
 Datum der Neuerung: 31. Oktober 2017
 
-Bluemix heißt jetzt IBM Cloud. Außer dem Namen ändert sich nichts. Sie können Ihre Apps und Services weiterhin wie gewohnt ohne großen Aufwand erstellen und ausführen. Weitere Details finden Sie im [IBM Cloud-Blog](https://www.ibm.com/blogs/bluemix/2017/10/bluemix-is-now-ibm-cloud/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link").
+Bluemix heißt jetzt IBM Cloud. Außer dem Namen ändert sich nichts. Sie können Ihre Apps und Services weiterhin wie gewohnt ohne großen Aufwand erstellen und ausführen. Weitere Details finden Sie im [IBM Cloud-Blog](https://www.ibm.com/blogs/bluemix/2017/10/bluemix-is-now-ibm-cloud/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link").
 
 ### Lite-Konto
 Datum der Neuerung: 31. Oktober 2017
 
-Mit dem neuen Typ des Lite-Kontos können Sie ausgewählte Services kostenlos und ohne Zeitbegrenzung ausprobieren. Dieses neue Konto umfasst darüber hinaus Nutzungsüberwachungs- und Effizienzfunktionen, die eine bessere Verwaltung Ihrer Ressourcen fördern. Mehr über die verfügbaren Funktionen finden Sie unter [Kontotypen](/docs/pricing/index.html#liteaccount).
+Mit dem neuen Typ des Lite-Kontos können Sie ausgewählte Services kostenlos und ohne Zeitbegrenzung ausprobieren. Dieses neue Konto umfasst darüber hinaus Nutzungsüberwachungs- und Effizienzfunktionen, die eine bessere Verwaltung Ihrer Ressourcen fördern. Mehr über die verfügbaren Funktionen finden Sie unter [Kontotypen](/docs/account/index.html#liteaccount).
 
 ### Funktion 'Identity and Access Management' für Anwendungsauthentifizierung
 Datum der Neuerung: 6. Oktober 2017
 
 Identity and Access Management (IAM) bietet jetzt die Möglichkeit der Erstellung einer Service-ID, die eine Art Identität darstellt, mit der sich Apps bei Ihren {{site.data.keyword.Bluemix_notm}}-Services authentifizieren können. Anstelle der Verwendung von einzelnen Benutzerberechtigungsnachweisen kann eine Service-ID mit einem zugeordneten API-Schlüssel und Zugriffsberechtigungen in Form einer Servicerichtlinie erstellt werden, die der Service-ID zugeordnet wird, damit Sie die Zugriffsebene für jede Anwendung steuern können, die sich mit dieser ID authentifiziert.
 
-Weitere Informationen zu den Vorzügen dieser Funktion und zu ihrer Verwendung enthält der Blogbeitrag [Introducing IBM Cloud IAM Service IDs and API Keys](https://www.ibm.com/blogs/bluemix/2017/10/introducing-ibm-cloud-iam-service-ids-api-keys/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link"). 
+Weitere Informationen zu den Vorzügen dieser Funktion und zu ihrer Verwendung enthält der Blogbeitrag [Introducing IBM Cloud IAM Service IDs and API Keys](https://www.ibm.com/blogs/bluemix/2017/10/introducing-ibm-cloud-iam-service-ids-api-keys/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link"). 
 
 ### Globaler {{site.data.keyword.Bluemix_notm}}-Katalog 
 Datum der Neuerung: 27. Juli 2017
 
 Als Erweiterung der letzten Konsolenaktualisierung für die Verwaltung Ihrer öffentlichen Regionen an einer zentralen Stelle in der Konsole gibt es in {{site.data.keyword.Bluemix_notm}} jetzt einen globalen Katalog, der die Auswahl und Bereitstellung von Elementen im Katalog optimiert. Ungeachtet der Region, die Sie in der Konsole ausgewählt haben, werden jetzt alle Services angezeigt, die in allen öffentlichen Regionen aus Ihrem Katalog verfügbar sind. Sobald Sie eine Kachel im Katalog auswählen, können Sie feststellen, in welchen Regionen der Service verfügbar ist, und auswählen, wo Sie den Service bereitstellen wollen.
 
-Weitere Informationen zu den neuesten Aktualisierungen des Katalogs enthält der Blogbeitrag [A global {{site.data.keyword.Bluemix_notm}} catalog makes building things easier](https://www.ibm.com/blogs/bluemix/2017/07/global-bluemix-catalog-makes-building-things-easier/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link").
+Weitere Informationen zu den neuesten Aktualisierungen des Katalogs enthält der Blogbeitrag [A global {{site.data.keyword.Bluemix_notm}} catalog makes building things easier](https://www.ibm.com/blogs/bluemix/2017/07/global-bluemix-catalog-makes-building-things-easier/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link").
 
 ### Aktualisierungen der {{site.data.keyword.Bluemix_notm}}-Konsole
 Datum der Neuerung: 23. Mai 2017
 
 Sie können Ihre öffentlichen Regionen ab sofort an einer zentralen Stelle in der aktualisierten {{site.data.keyword.Bluemix_notm}}-Konsole verwalten. Der Regionsselektor ermöglicht Ihnen einen optimierten Zugriff auf Ihre Ressourcen; zu den weiteren Verbesserungen gehören eine höhere Verfügbarkeit und eine gesteigerte Leistung.
 
-Weitere Informationen zu dieser Aktualisierung enthält der Blogbeitrag [New Global Bluemix UI for Higher Availability and More](https://www.ibm.com/blogs/bluemix/2017/05/new-global-bluemix-ui-higher-availability/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link").
+Weitere Informationen zu dieser Aktualisierung enthält der Blogbeitrag [New Global Bluemix UI for Higher Availability and More](https://www.ibm.com/blogs/bluemix/2017/05/new-global-bluemix-ui-higher-availability/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link").
 
 ### Identity and Access Management
 Datum der Neuerung: 1. Mai 2017
@@ -105,7 +105,7 @@ Des Weiteren können Benutzer der {{site.data.keyword.Bluemix_notm}}-Plattform A
 
 Zu guter Letzt wurde die einheitliche Benutzermanagementfunktion erweitert, damit bei einem verknüpften IaaS-PaaS-Konto die einheitliche Verwaltung von Benutzern möglich ist, ohne dass Benutzer separat im SoftLayer-Kundenportal oder der {{site.data.keyword.Bluemix_notm}}-Konsole hinzugefügt werden müssen.
 
-Zusätzliche Angaben über die neueste Aktualisierung können Sie dem Blogbeitrag [Introducing Identity & Access Management](https://www.ibm.com/blogs/bluemix/2017/05/introducing-identity-access-management/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link") entnehmen.
+Zusätzliche Angaben über die neueste Aktualisierung können Sie dem Blogbeitrag [Introducing Identity & Access Management](https://www.ibm.com/blogs/bluemix/2017/05/introducing-identity-access-management/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link") entnehmen.
 
 ### Geändertes Navigationsdesign für {{site.data.keyword.Bluemix_notm}}-Dokumente
 Datum der Neuerung: 13. April 2017
@@ -143,12 +143,12 @@ Durch die neuesten Aktualisierungen und Verbesserungen im August können Sie die
 #### Aktualisierung der Nutzungsmetriken für {{site.data.keyword.cloudant_short_notm}}-Services
 
   * Die Berechnung der Nutzungsmetriken für {{site.data.keyword.cloudant_short_notm}} wurde aktualisiert, damit die Gesamtsumme der in allen Knoten in einem {{site.data.keyword.cloudant_short_notm}}-Cluster genutzten und verfügbaren GB wiedergegeben wird. Ein {{site.data.keyword.cloudant_short_notm}}-Cluster enthält normalerweise 3 Knoten und ein Dokument in der Datenbank wird zur Hochverfügbarkeit und Notfallwiederherstellung auf allen Knoten im Cluster repliziert. Durch die im August vorgenommenen Aktualisierungen gibt die Kapazitätsmetrik in der {{site.data.keyword.cloudant_short_notm}}-Skala (verfügbar in der Ansicht _Ressourcennutzung > Services_) den Speicherplatz für alle Knoten im Cluster an. Falls ein einzelner {{site.data.keyword.cloudant_short_notm}}-Cluster beispielsweise 3 Knoten mit einer Kapazität von jeweils 1000 GB enthält, beträgt das Kapazitätslimit 3000 GB. Wurden 1500 GB dieser Kapazität benutzt, hat die {{site.data.keyword.cloudant_short_notm}}-Nutzungsmetrik den Wert 50%.
-
+ 
 #### Aktualisierungen bei der Planung von Wartungsaktualisierungen
   
   * In {{site.data.keyword.Bluemix_dedicated_notm}} können Kunden das Datum und die Uhrzeit der Zeiträume verwalten, in denen ihre dedizierten Umgebungen für die Bereitstellung von Systemaktualisierungen zur Verfügung stehen. Kunden können mit Datumsangaben und Uhrzeiten Verfügbarkeitsfenster definieren, in denen Wartungsaktualisierungen in ihrer dedizierten Umgebung bereitgestellt bzw. nicht bereitgestellt werden können. Bei der Aktualisierung im August wurde die Option _Verfügbare Aktualisierungsfenster_ in _Aktualisierungsfenster_ und _Nicht verfügbare Aktualisierungsfenster_ in _Ausfallfenster_ umbenannt. Neben der Terminologieänderung bietet sich für die Kunden jetzt eine größere Flexibilität und Spanne beim Definieren von Ausfallzeiten, also nicht verfügbaren Zeitpunkten. Nach der Anforderung müssen die Ausfallzeiten durch IBM genehmigt werden; die Dauer bis zur Genehmigung kann hierbei variieren. Wenn die angeforderten Ausfallzeiten genehmigt sind, storniert IBM vorhandene Aktualisierungen, die momentan über das Nichtverfügbarkeitsfenster geplant sind. Darüber hinaus erstellt IBM neue Datensätze für diese Aktualisierungen und plant sie außerhalb der genehmigten Ausfallzeiten ein.
   
-Weitere Informationen können Sie dem [Video](https://bit.ly/2eCQNvu){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link") entnehmen.
+Weitere Informationen können Sie dem [Video](https://bit.ly/2eCQNvu){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link") entnehmen.
 
 ### Aktualisierungen für die Administrationskonsole im Juli
 {: #julyadminconsole}
@@ -161,7 +161,7 @@ Durch die neuesten Aktualisierungen und Verbesserungen im Juli können Sie die f
   * Bei der letzten Aktualisierung im Juni wurde in der Ansicht 'Protokoll' für die Hauptspeicher- und Plattenspeichernutzung die Anzeige der Nutzungsdaten für die letzten 48 Stunden, 30 Tage und 5 Monate eingeführt. Bei der neuesten Aktualisierung im Juli wurde die Funktionalität für den Verlauf der Ressourcennutzung erweitert und ermöglicht jetzt eine Anpassung des Zeitraums, für den Ressourcennutzungsdaten angezeigt werden sollen. Die Ansichten für die stündliche, tägliche und monatliche Nutzung sind weiterhin verfügbar, aber Benutzer können nun auch einen Anfangszeitpunkt mit Datum und Uhrzeit sowie eine Dauer angeben, für die Hauptspeicher- und Plattenspeichernutzungsmetriken angezeigt werden sollen (z. B. Hauptspeichernutzung für 15 Tage ab dem 1. Juli 2017).
   * Es wurde ein neuer CLI-Befehl eingeführt, mit dem der Verlauf der Ressourcenmetriken in der CLI angezeigt werden kann. Die Parameter des Befehls sowie Verwendungsbeispiele können Sie durch Eingabe von `_cf ba resource-metrics-history -help_` aufrufen.
  
-Weitere Informationen können Sie dem [Video](https://youtu.be/QBij0jB5qAk){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link") entnehmen.
+Weitere Informationen können Sie dem [Video](https://youtu.be/QBij0jB5qAk){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link") entnehmen.
 
 ### Aktualisierungen für die Administrationskonsole im Juni
 {: #mayadminconsole}
@@ -172,7 +172,7 @@ Durch die neuesten Aktualisierungen und Verbesserungen im Juni können Sie die f
 #### Aktualisierungen der Seite 'Ressourcennutzung'
 
   * Systemressourcen
-    * Die Ansicht 'Protokoll' für Haupt- und Plattenspeicher wurde aktualisiert, damit Daten für die letzten 48 Stunden, 30 Tage und 5 Monate angezeigt werden können.
+    * Die Ansicht 'Protokoll' für Haupt- und Plattenspeicher wurde aktualisiert und zeigt nun Daten für die letzten 48 Stunden, 30 Tage und 5 Monate an.
     * Durch einen bereitgestellten Link 'Weitere Informationen' kann angezeigt werden, wie die Metrik-API der Administrationskonsole zur Generierung der Verlaufsansichten verwendet wird. 
   * Anwendungen
     * Es werden Nutzungsinformationen für alle Anwendungen in der Umgebung bereitgestellt.
@@ -197,7 +197,7 @@ Durch die neuesten Aktualisierungen und Verbesserungen im Mai können Sie die fo
 
  * Die Seite 'Status' wurde unter anderem durch eine differenziertere Diagnose für Vorfälle verbessert, die sich auf die {{site.data.keyword.Bluemix_notm}}-Plattform und -Laufzeiten auswirken.
  * Die Seite 'Berichte und Protokolle' für die Sicherheit wurde folgendermaßen verbessert:
-   * Berichte werden nun im Tabellenformat angezeigt, was das Anzeigen und Durchsuchen von Berichten vereinfacht und auch die Möglichkeit zur Sortierung nach Berichtskategorie, Dateiname oder Erstellungsdatum bietet. 
+   * Berichte werden nun im Tabellenformat angezeigt, was das Anzeigen und Durchsuchen von Berichten vereinfacht und darüber hinaus die Möglichkeit zum Sortieren nach Berichtskategorie, Dateiname oder Erstellungsdatum bietet. 
    * Die Filterung wurde unter anderem durch die gleichzeitige Filterung von mehreren Kategorien erweitert. 
    * Der Inhalt eines Berichts kann nun im Gesamtanzeigemodus erfolgen.
    * Benutzer mit Administratorberechtigung und der Berechtigung zum Schreiben von Berichten können jetzt Berichte löschen.
@@ -210,7 +210,7 @@ Datum der Neuerung: 2. Mai 2017
 
 Durch die neuesten Aktualisierungen und Verbesserungen im April können Sie die folgenden neuen Features nutzen:
 
- * Die Statusapp für Umgebungen von {{site.data.keyword.Bluemix_notm}} Dedicated und Local wurde neu gestaltet. Sie können jetzt schnelle Suchvorgänge nach Komponentenname oder Datumsdatum durchführen. Außerdem können Sie zwischen der Ansicht für Komponentenstatusbeiträge und den speziellen Benachrichtigungen für Ihre Umgebung umschalten. Weitere Informationen enthält der Blogbeitrag [New {{site.data.keyword.Bluemix_notm}} Status Page](https://www.ibm.com/blogs/bluemix/2017/05/new-bluemix-status-page/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link").
+ * Die Statusapp für Umgebungen von {{site.data.keyword.Bluemix_notm}} Dedicated und Local wurde neu gestaltet. Sie können jetzt schnelle Suchvorgänge nach Komponentenname oder Datumsdatum durchführen. Außerdem können Sie zwischen der Ansicht für Komponentenstatusbeiträge und den speziellen Benachrichtigungen für Ihre Umgebung umschalten. Weitere Informationen enthält der Blogbeitrag [New {{site.data.keyword.Bluemix_notm}} Status Page](https://www.ibm.com/blogs/bluemix/2017/05/new-bluemix-status-page/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link").
  * Ausgehend von der Kachel 'Ressourcennutzung' können jetzt Servicenutzungsdaten für ausgewählte Services angezeigt werden. Weitere Informationen finden Sie unter [Details zur Verwendung des Service](/docs/hybrid/index.html#servicesresourceusage).
 
 ## Infrastruktur und Ressourcen
@@ -227,7 +227,7 @@ Auf den folgenden Seiten finden Sie eine kumulative Liste der neuesten Aktualisi
 
 ### Neueste Aktualisierungen für {{site.data.keyword.containerlong_notm}}
 
-{{site.data.keyword.containerlong_notm}} verwendet ab Mai 2017 die Kubernetes-Architektur. Die vorherige Architektur für einzelne und skalierbare Containergruppen wird [ab dem 5. Dezember 2017 nicht mehr unterstützt](https://www.ibm.com/blogs/bluemix/2017/07/deprecation-single-scalable-group-container-service-bluemix-public/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link").  
+{{site.data.keyword.containerlong_notm}} verwendet ab Mai 2017 die Kubernetes-Architektur. Die vorherige Architektur für einzelne und skalierbare Containergruppen wird [ab dem 5. Dezember 2017 nicht mehr unterstützt](https://www.ibm.com/blogs/bluemix/2017/07/deprecation-single-scalable-group-container-service-bluemix-public/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link").  
 
 [Informationen zum Einstieg in die native Kubernetes-Umgebung bei {{site.data.keyword.Bluemix_notm}}](/docs/containers/container_index.html) finden Sie in der Dokumentation. Etwaige Fragen können Sie in Slack unter der Adresse 'https://ibm-container-service.slack.com/' posten.
 
@@ -239,19 +239,19 @@ Das Liberty Buildpack v3.11 bietet eine neue monatliche Liberty-Laufzeitversion 
 ### Neues Liberty Buildpack für Java v3.10
 Datum der Neuerung: 12. Juni 2017
 
-Das Liberty Buildpack v3.10 bietet neue vierteljährliche und monatliche Liberty-Laufzeitversionen und weitere Verbesserungen. Die Version der Liberty-Standardlaufzeit wurde auf 17.0.0.2 aktualisiert. Die monatliche Liberty-Laufzeitversion wurde auf das Release [2017.5.0.0](https://developer.ibm.com/wasdev/blog/2017/05/12/beta-websphere-liberty-tools-may-2017/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link") aktualisiert. Das Buildpack stellt außerdem aktualisierte Versionen des Dienstprogramms 'App-Management' und des eXtreme Scale-Clients bereit. Zusätzliche Informationen finden Sie in der Dokumentation über die [neuesten Aktualisierungen](/docs/runtimes/liberty/updates.html).
+Das Liberty Buildpack v3.10 bietet neue vierteljährliche und monatliche Liberty-Laufzeitversionen und weitere Verbesserungen. Die Version der Liberty-Standardlaufzeit wurde auf 17.0.0.2 aktualisiert. Die monatliche Liberty-Laufzeitversion wurde auf das Release [2017.5.0.0](https://developer.ibm.com/wasdev/blog/2017/05/12/beta-websphere-liberty-tools-may-2017/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link") aktualisiert. Das Buildpack stellt außerdem aktualisierte Versionen des Dienstprogramms 'App-Management' und des eXtreme Scale-Clients bereit. Zusätzliche Informationen finden Sie in der Dokumentation über die [neuesten Aktualisierungen](/docs/runtimes/liberty/updates.html).
 
 ### Neues Buildpack für SDK for Node.js v3.12
 Datum der Neuerung: 16. Mai 2017
 
-Das Buildpack für SDK for Node.js v3.12 stellt für IBM SDK for Node.js die Versionen 0.12.17, 0.12.18, 4.8.0, 4.8.2, 6.10.0 und 6.10.2 bereit. Der Standardwert wurde vom letzten 4.x-Release auf das neueste 6.x-Release geändert und lautet somit derzeit 6.10.2. Da es sich um eine Änderung der Hauptversion handelt, könnten Auswirkungen auf Apps bestehen, die den Standardwert verwenden. Weitere Informationen zur Vermeidung von Problemen enthält der Blogbeitrag [Node.js version long-term support and the SDK for Node.js buildpack](https://www.ibm.com/blogs/bluemix/2016/11/node-version-support-and-sdk-buildpack/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link").
+Das Buildpack für SDK for Node.js v3.12 stellt für IBM SDK for Node.js die Versionen 0.12.17, 0.12.18, 4.8.0, 4.8.2, 6.10.0 und 6.10.2 bereit. Der Standardwert wurde vom letzten 4.x-Release auf das neueste 6.x-Release geändert und lautet somit derzeit 6.10.2. Da es sich um eine Änderung der Hauptversion handelt, könnten Auswirkungen auf Apps bestehen, die den Standardwert verwenden. Weitere Informationen zur Vermeidung von Problemen enthält der Blogbeitrag [Node.js version long-term support and the SDK for Node.js buildpack](https://www.ibm.com/blogs/bluemix/2016/11/node-version-support-and-sdk-buildpack/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link").
 
 Neben den neuen Laufzeiten enthält dieses Release eine Buildpack-Fehlerkorrektur für ein Problem beim Handler für das Health Center 'App-Management' und den Node.js-Versionen 6.9.5 und 6.10.0.
 
 ### Neues Liberty Buildpack für Java v3.9
 Datum der Neuerung: 27. April 2017
 
-Das Liberty Buildpack v3.9 bietet eine neue monatliche Liberty-Laufzeitversion und weitere Verbesserungen. Die Version der Liberty-Standardlaufzeit wurde zur Berücksichtigung der iFixes PI77770, PI77605, IFPI77438 und IFPI79275 aktualisiert. Die monatliche Liberty-Laufzeitversion wurde auf das Release [2017.3.0.0](https://developer.ibm.com/wasdev/blog/2017/03/14/beta-websphere-liberty-tools-march-2017/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link") aktualisiert. Die Hauptspeicherberechnung wurde vom Staging in den Startprozess verschoben, was Heapspeicheränderungen beim Neustart einer Anwendung vereinfacht. Das Buildpack stellt außerdem aktualisierte Versionen des Service-Agenten für die automatische Skalierung und des eXtreme Scale-Clients bereit. Zusätzliche Informationen finden Sie in der Dokumentation über die [neuesten Aktualisierungen](/docs/runtimes/liberty/updates.html).
+Das Liberty Buildpack v3.9 bietet eine neue monatliche Liberty-Laufzeitversion und weitere Verbesserungen. Die Version der Liberty-Standardlaufzeit wurde zur Berücksichtigung der iFixes PI77770, PI77605, IFPI77438 und IFPI79275 aktualisiert. Die monatliche Liberty-Laufzeitversion wurde auf das Release [2017.3.0.0](https://developer.ibm.com/wasdev/blog/2017/03/14/beta-websphere-liberty-tools-march-2017/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link") aktualisiert. Die Hauptspeicherberechnung wurde vom Staging in den Startprozess verschoben, was Heapspeicheränderungen beim Neustart einer Anwendung vereinfacht. Das Buildpack stellt außerdem aktualisierte Versionen des Service-Agenten für die automatische Skalierung und des eXtreme Scale-Clients bereit. Zusätzliche Informationen finden Sie in der Dokumentation über die [neuesten Aktualisierungen](/docs/runtimes/liberty/updates.html).
 
 ## Services
 {: #services_category}
@@ -259,14 +259,14 @@ Das Liberty Buildpack v3.9 bietet eine neue monatliche Liberty-Laufzeitversion u
 ### {{site.data.keyword.containershort_notm}}: Unterstützung von Kubernetes 1.8.x
 Datum der Neuerung: 19. Januar 2018
 
-Seit November 2017 unterstützte {{site.data.keyword.containershort_notm}} Kubernetes `1.8.x`. Wir freuen uns, bekanntgeben zu können, dass die Standardversion von Kubernetes jetzt `1.8.6` lautet. In naher Zukunft wird die Unterstützung für `1.9.x` bereitgestellt.
+Seit November 2017 unterstützte {{site.data.keyword.containershort_notm}} Kubernetes `1.8.x`. Wir freuen uns, bekanntgeben zu können, dass die Standardversion von Kubernetes jetzt `1.8.6` lautet.  In naher Zukunft wird die Unterstützung für `1.9.x` bereitgestellt.
 
 ### Watson Discovery Visual Insights
 Datum der Neuerung: 30. November 2017
 
 Dank des Verständnisses von {{site.data.keyword.discoveryshort}} für semantische Elemente, die im Text erkannt wurden (z. B. Entitäten, Beziehung, Konzepte u. a.) können Sie Verbindungen grafisch orientiert untersuchen.
 
-Zum Einstieg können Sie die weltweiten Nachrichten in der sofort einsatzfähigen Datensammlung '{{site.data.keyword.discoveryshort}} News' durchsuchen. Sie können aber auch Ihre eigenen Dokumentsammlungen in {{site.data.keyword.discoveryshort}} durchsuchen. Melden Sie sich einfach mit Ihren {{site.data.keyword.Bluemix_notm}}-Berechtigungsnachweisen an. Weitere Informationen finden Sie unter [Visual Insights (experimentell)](https://visual-insights.bluemix.net){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link").
+Zum Einstieg können Sie die weltweiten Nachrichten in der sofort einsatzfähigen Datensammlung '{{site.data.keyword.discoveryshort}} News' durchsuchen. Sie können aber auch Ihre eigenen Dokumentsammlungen in {{site.data.keyword.discoveryshort}} durchsuchen. Melden Sie sich einfach mit Ihren {{site.data.keyword.Bluemix_notm}}-Berechtigungsnachweisen an. Weitere Informationen finden Sie unter [Visual Insights (experimentell)](https://visual-insights.bluemix.net){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link").
 
 ### Neuer IBM Cloud-Betaservice 'Managed Database Server'
 Datum der Neuerung: 30. November 2017
@@ -289,16 +289,16 @@ In den letzten Monaten wurden einige Erweiterungen am {{site.data.keyword.mobile
 Sie können jetzt die Leistung von Push-Benachrichtigungen für bestimmte Zeiträume, die Anzahl der gesendeten Benachrichtigungen sowie die Gesamtzahl der registrierten Geräte überwachen. Außerdem können Sie Web-Hooks registrieren, um über alle Ereignisse im Lebenszyklus einer Benachrichtigung informiert zu werden. Weitere Details enthalten die folgenden Dokumentationslinks und Blogbeiträge:
 * [Benachrichtigungen überwachen](/docs/services/mobilepush/push_monitoring.html#push_monitoring)
 * [Alerts über Web-Hook-Ereignisse empfangen](/docs/services/mobilepush/push_webhook.html#webhook_event_based_notifications)
-* [Monitoring in IBM Push Notifications](https://www.ibm.com/blogs/bluemix/2017/03/monitoring-ibm-push-notifications/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")
+* [Monitoring in IBM Push Notifications](https://www.ibm.com/blogs/bluemix/2017/03/monitoring-ibm-push-notifications/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")
 
 #### Webbenachrichtigungen
-Für Webbenachrichtigungen wird jetzt neben Firefox, Chrome, Chrome App & Extensions auch der Safari-Web-Browser unterstützt. Web-SDKs und zugehörige Informationen sind unter [IBM Bluemix Push Notifications Web SDK](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-javascript-webpush/blob/Doc/README.md){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link") zu finden.
+Für Webbenachrichtigungen wird jetzt neben Firefox, Chrome, Chrome App and Extensions auch der Safari-Web-Browser unterstützt. Web-SDKs und zugehörige Informationen sind unter [IBM Bluemix Push Notifications Web SDK](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-javascript-webpush/blob/Doc/README.md){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link") zu finden.
 
 #### Neueste Benachrichtigungen für Android und iOS
 Für iOS 11-Benachrichtigungen gibt es jetzt eine Währungsunterstützung. Außerdem wurden mehrere neue benachrichtigungsbezogene Erweiterungen aus iOS10 und Android N integriert.
 
-* iOS10: Rich-Media-Benachrichtigungen, Images, Schaltflächen & Karten in interaktiven Benachrichtigungen, Unterstützung von lokalisierten Zeichenfolgen
-* Android N: Erweiterbare Benachrichtigungen, interaktive Benachrichtigungen & Benachrichtigungen im Hintergrund, Einstellungen für LED-Licht
+* iOS10: Rich Media-Benachrichtigungen, Images, Schaltflächen und Karten in interaktiven Benachrichtigungen, Unterstützung von lokalisierten Zeichenfolgen
+* Android N: Erweiterbare Benachrichtigungen, interaktive Benachrichtigungen und Benachrichtigungen im Hintergrund, Einstellungen für LED-Licht
 
 Zusätzliche Details finden Sie in der Dokumentation unter [Rich-Media-Benachrichtigungen](/docs/services/mobilepush/push_step_4_nf_rich.html#interactive-notifications), [Interaktive Benachrichtigungen und Benachrichtigungen im Hintergrund](/docs/services/mobilepush/push_step_4_nf_interactive.html#interactive-notifications) sowie [Erweiterte Push-Benachrichtigungen aktivieren](/docs/services/mobilepush/push_step_4_nf_adv.html#enabling-advanced-push-notifications).
 
@@ -306,7 +306,7 @@ Zusätzliche Details finden Sie in der Dokumentation unter [Rich-Media-Benachric
 Apple hat eine Unterstützung des HTTP-Protokolls für Apple Notifications eingeführt. Der {{site.data.keyword.mobilepushshort}}-Service unterstützt jetzt das HTTP/2-Protokoll. Durch diese Unterstützung können Benachrichtigungen Nutzdaten in einer Größe von 4 KB enthalten; gleichzeitig wird der Durchsatz gesteigert und es gibt eine Funktion für ein Sofortfeedback. Die Unterstützung von Universal Certificate ermöglicht der App Verbindungen sowohl zur Sandbox- als auch zur Produktionsumgebung.
 
 #### Neuer Lite-Plan 
-Der Lite-Plan für den {{site.data.keyword.mobilepushshort}}-Service ermöglicht das kostenlose Senden von Benachrichtigungen mit einer Größe von 100 K monatlich. Weitere Informationen enthält der Blogbeitrag [Lite Plan For Push Notifications Service on Bluemix](https://www.ibm.com/blogs/bluemix/2017/06/lite-plan-push-notifications-service-bluemix/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link").
+Der Lite-Plan für den {{site.data.keyword.mobilepushshort}}-Service ermöglicht das kostenlose Senden von Benachrichtigungen mit einer Größe von 100 K monatlich. Weitere Informationen enthält der Blogbeitrag [Lite Plan For Push Notifications Service on Bluemix](https://www.ibm.com/blogs/bluemix/2017/06/lite-plan-push-notifications-service-bluemix/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link").
 
 
 
@@ -316,24 +316,24 @@ Datum der Neuerung: 26. Oktober 2017
 In den letzten Monaten wurden Erweiterungen am {{site.data.keyword.mobileanalytics_short}}-Service vorgenommen. Der Service ist nun in den Regionen 'Frankfurt' und 'Sydney' sowie 'Dallas' und 'London' verfügbar. Die Details der Erweiterungen sind nachfolgend aufgeführt:
 
 #### Web-SDK-Unterstützung
-{{site.data.keyword.mobileanalytics_short}} ist jetzt ein Omni-Channel-Service und bietet zusätzlich Unterstützung für Web-App-Analysen. Weitere Details finden Sie unter der Adresse [https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-web-analytics/](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-web-analytics/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link").
+{{site.data.keyword.mobileanalytics_short}} ist jetzt ein Omni-Channel-Service und bietet zusätzlich Unterstützung für Web-App-Analysen. Weitere Details finden Sie unter der Adresse [https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-web-analytics/](https://github.com/ibm-bluemix-mobile-services/bms-clientsdk-web-analytics/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link").
 
 #### Integration mit {{site.data.keyword.mobilefoundation_short}}-Service
 Der {{site.data.keyword.mobilefoundation_short}}-Service nutzt jetzt den {{site.data.keyword.mobileanalytics_short}}-Service zur App-, Benutzer- und Leistungsanalyse. Benutzer können die Option 'In DB2-Data-Warehouse exportieren' nutzen, um eine Adapteranalyse und benutzerdefinierte Diagramme zu erstellen. Zusätzliche Details enthalten die folgenden Blogbeiträge:
 
-* [Mobile Foundation Service integration with Mobile Analytics Service](https://www.ibm.com/blogs/bluemix/2017/08/mobile-foundation-service-integration-mobile-analytics-service-2/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")
-* [Building custom charts using IBM Bluemix Mobile Analytics service and IBM Mobile Foundation Service](https://mobilefirstplatform.ibmcloud.com/blog/2017/04/26/custom-charts-using-analytics-and-dashdb-analytics-service/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")
-* [Building charts for Adapter analytics using IBM Bluemix Mobile Analytics service and IBM Mobile Foundation Service](https://mobilefirstplatform.ibmcloud.com/blog/2017/04/26/adapter-analytics-using-analytics-and-dashdb-analytics-service/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")
+* [Mobile Foundation Service integration with Mobile Analytics Service](https://www.ibm.com/blogs/bluemix/2017/08/mobile-foundation-service-integration-mobile-analytics-service-2/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")
+* [Building custom charts using IBM Bluemix Mobile Analytics service and IBM Mobile Foundation Service](https://mobilefirstplatform.ibmcloud.com/blog/2017/04/26/custom-charts-using-analytics-and-dashdb-analytics-service/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")
+* [Building charts for Adapter analytics using IBM Bluemix Mobile Analytics service and IBM Mobile Foundation Service](https://mobilefirstplatform.ibmcloud.com/blog/2017/04/26/adapter-analytics-using-analytics-and-dashdb-analytics-service/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")
 
 #### {{site.data.keyword.mobilefirst_notm}}-Boilerplate enthält jetzt {{site.data.keyword.mobileanalytics_short}}
-Die Mobile Services-Boilerplate ist eine Vorlage, die eine Reihe von mobilen Services bereitstellt und Benutzern so einen schnellen Einstieg ermöglicht. Der {{site.data.keyword.mobileanalytics_short}}-Service ist jetzt Bestandteil der Boilerplate, die im [Katalog](https://console.bluemix.net/catalog/starters/mobilefirst-services-starter){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link") verfügbar ist.
+Die Mobile Services-Boilerplate ist eine Vorlage, die eine Reihe von mobilen Services bereitstellt und Benutzern so einen schnellen Einstieg ermöglicht. Der {{site.data.keyword.mobileanalytics_short}}-Service ist jetzt Bestandteil der Boilerplate, die im [Katalog](https://console.bluemix.net/catalog/starters/mobilefirst-services-starter){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link") verfügbar ist.
 
 
 ### Aktualisierungen für {{site.data.keyword.streaminganalyticsshort}}
 Datum der Neuerung: 20. Oktober 2017
 
 * IBM Streams Runner for Apache Beam: Sie können jetzt Beam-Anwendungen lokal in Ihrer Streams-Entwicklungsumgebung entwickeln und anschließend diese Apps an den {{site.data.keyword.streaminganalyticsshort}}-Service in {{site.data.keyword.Bluemix_notm}} übergeben. IBM Streams Runner for Apache Beam führt Beam-Pipelines in einer Streams-Umgebung aus. Eine Beam-Anwendung, die mit Streams Runner gestartet wird, wird in eine Datei des Typs 'Streams Application Bundle' (SAB) umgesetzt, die Sie anschließend in {{site.data.keyword.streaminganalyticsshort}} bereitstellen können. Weitere Details finden Sie unter [IBM Streams Runner for Apache Beam bei der Streaming-Analyse](/docs/services/StreamingAnalytics/gs_beamrunner.html).
-* Informationen aus Protokolldateien können Sie jetzt noch schneller abrufen. Die Konsole wurde mit einer verbesserten Anzeige von Anwendungsdiagrammen für Python- oder Java-Topologien aktualisiert. Weitere Informationen finden Sie unter [Erweiterungen der Konsole](https://developer.ibm.com/streamsdev/2017/10/13/enhancements-to-the-console/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link").
+* Informationen aus Protokolldateien können Sie jetzt noch schneller abrufen. Die Konsole wurde mit einer verbesserten Anzeige von Anwendungsdiagrammen für Python- oder Java-Topologien aktualisiert. Weitere Informationen finden Sie unter [Erweiterungen der Konsole](https://developer.ibm.com/streamsdev/2017/10/13/enhancements-to-the-console/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link").
 
 ### IBM App Launch for {{site.data.keyword.Bluemix_notm}} Services
 Datum der Neuerung: 12. Oktober 2017
@@ -354,7 +354,7 @@ Datum der Neuerung: 20. September 2017
 
 Sie können Ihre Cluster jetzt auf die neueste verfügbare Version von Kubernetes in {{site.data.keyword.Bluemix_notm}} aktualisieren. Aktualisieren Sie Ihre Kubernetes-Masterknoten und Ihre Workerknoten entweder über die grafische Benutzerschnittstelle oder über die CLI auf Kubernetes 1.7, damit Sie die neuen Features und Patches nutzen können.
 
-Weitere Informationen enthält der Blogbeitrag [Kubernetes 1.7 available in {{site.data.keyword.containerlong_notm}}](https://www.ibm.com/blogs/bluemix/2017/09/kubernetes-1-7-available-ibm-bluemix-container-service/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link").
+Weitere Informationen enthält der Blogbeitrag [Kubernetes 1.7 available in {{site.data.keyword.containerlong_notm}}](https://www.ibm.com/blogs/bluemix/2017/09/kubernetes-1-7-available-ibm-bluemix-container-service/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link").
 
 ### Neuer experimenteller Service 'IBM Voice Agent with Watson'
 Datum der Neuerung: 15. September 2017
@@ -376,7 +376,7 @@ Datum der Neuerung: 14. August 2017
  
 Für Python- und Java-Anwendungen wird die Position der Quellendatei basierend auf Ihren @spl_note-Annotationen angezeigt. 
  
-Details finden Sie im Artikel [Latest improvements to the {{site.data.keyword.streaminganalyticsshort}}](https://developer.ibm.com/streamsdev/2017/08/14/latest-improvements-streaming-analytics-console/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link").
+Details finden Sie im Artikel [Latest improvements to the {{site.data.keyword.streaminganalyticsshort}}](https://developer.ibm.com/streamsdev/2017/08/14/latest-improvements-streaming-analytics-console/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link").
 
 ### IBM Cloud Monitoring nun auch in der Region 'United Kingdom' verfügbar
 Datum der Neuerung: 1. August 2017
@@ -393,9 +393,9 @@ Mit dem {{site.data.keyword.monitoringlong}}-Service können Sie Ihre Datensamml
 
 * Den Serviceplan auswählen, der den jeweiligen Bedürfnissen am besten entspricht. Abhängig von den jeweiligen Nutzungsanforderungen können Sie den Lite-Serviceplan oder den Premium-Serviceplan auswählen. Der Lite-Plan bietet eine Erfassung von Metriken in Intervallen von einer Minute, Aufbewahrung für 15 Tage und ergänzende Alertfunktionalität.  Alternativ dazu können Sie den Premium-Plan auswählen, der die Verarbeitung größerer Volumen, längere Speicherzeiträume für Metriken und Zugriff auf die Service-APIs umfasst. Mit diesen APIs können Sie beispielsweise Metriken an den {{site.data.keyword.monitoringlong}}-Service senden oder von diesem abrufen. {{site.data.keyword.monitoringlong}} bietet die Erfassung von Metriken in Intervallen von einer Minute.  Im Rahmen des Lite-Plans werden die Metriken bei vollständiger Auflösung für 15 Tage gespeichert. Im Rahmen des Premium-Plans werden die Metriken bei vollständiger Auflösung für 45 Tage gespeichert.
 
-Vom traditionellen {{site.data.keyword.monitoringshort}}-Service wurden Metriken in der vom Service definierten Häufigkeit (ab 30 Sekunden) erfasst und mit der Zeit für 1 Stunde zusammengefasst. {{site.data.keyword.monitoringlong}} bietet nun eine vollständige Auflösungserfassung mit 1 Minute. Beim Lite-Plan werden Metriken 15 Tage lang aufbewahrt. Beim Premium-Plan beträgt die Aufbewahrungsdauer 45 Tage.
+Vom traditionellen {{site.data.keyword.monitoringshort}}-Service wurden Metriken in der vom Service definierten Häufigkeit (ab 30 Sekunden) erfasst und mit der Zeit für 1 Stunde zusammengefasst. {{site.data.keyword.monitoringlong}} bietet nun eine vollständige Auflösungserfassung mit 1 Minute.  Beim Lite-Plan werden Metriken 15 Tage lang aufbewahrt.  Beim Premium-Plan beträgt die Aufbewahrungsdauer 45 Tage.
 
-Weitere Informationen zum {{site.data.keyword.monitoringlong}}-Service finden Sie in der Dokumentation unter [Einführung in Monitoring-Service](/docs/services/cloud-monitoring/index.html#getting-started-with-ibm-cloud-monitoring) oder im Blogbeitrag [IBM Cloud Monitoring – Service Refresh with New Features![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://www.ibm.com/blogs/bluemix/2017/07/ibm-cloud-monitoring-service-refresh-new-features/).
+Weitere Informationen zum {{site.data.keyword.monitoringlong}}-Service finden Sie in der Dokumentation unter [Einführung in Monitoring-Service](/docs/services/cloud-monitoring/index.html#getting-started-with-ibm-cloud-monitoring) oder im Blogbeitrag [IBM Cloud Monitoring – Service Refresh with New Features![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://www.ibm.com/blogs/bluemix/2017/07/ibm-cloud-monitoring-service-refresh-new-features/).
 
 
 ### IBM Cloud Log Analysis jetzt in Region 'US South' verfügbar
@@ -405,7 +405,7 @@ Der {{site.data.keyword.loganalysisfull}}-Service umfasst Protokollerfassungs- u
 
 * Sie können Protokolle so lang wie benötigt aufbewahren.  
 
-    Protokolle werden im IBM Cloud-Speicher gespeichert. Sie können die Protokolle herunterladen, wenn Sie sie benötigen.
+    Protokolle werden im IBM Cloud-Speicher gespeichert.  Sie können die Protokolle herunterladen, wenn Sie sie benötigen.
 	
 * Sie können Ihre aufbewahrten Protokolle verwalten und Protokolldaten mithilfe der neuen API aus externen Positionen an {{site.data.keyword.IBM_notm}} Cloud senden.
 
@@ -428,12 +428,12 @@ Datum der Neuerung: 18. Juli 2017
 
 Die folgende Tabelle gibt Aufschluss über den neuen Namen:
 
-| Vorheriger Name             | Neuer Name                 | Stichtag       |
+| Vorheriger Name               | Neuer Name                   | Stichtag |
 |-----------------------------|----------------------------|----------------|
 | IBM dashDB for Analytics    | IBM Db2 Warehouse on Cloud | 18. Juli 2017  |
 {: caption="Tabelle 1. Änderung des Servicenamens" caption-side="top"}
  
-Eine kumulative Liste der Aktualisierungen für Db2 Warehouse on Cloud und Db2 on Cloud finden Sie unter [What's New in Db2 Warehouse on Cloud and Db2 on Cloud](http://www.ibm.com/support/docview.wss?uid=swg21961758){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link"). 
+Eine kumulative Liste der Aktualisierungen für Db2 Warehouse on Cloud und Db2 on Cloud finden Sie unter [What's New in Db2 Warehouse on Cloud and Db2 on Cloud](http://www.ibm.com/support/docview.wss?uid=swg21961758){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link"). 
 
 ### IBM Cloud Monitoring jetzt in Region 'US South' verfügbar
 Datum der Neuerung: 17. Juli 2017
@@ -450,9 +450,9 @@ Mit dem {{site.data.keyword.monitoringlong}}-Service können Sie Ihre Datensamml
 
 * Den Serviceplan auswählen, der den jeweiligen Bedürfnissen am besten entspricht. Abhängig von den jeweiligen Nutzungsanforderungen können Sie den Lite-Serviceplan oder den Premium-Serviceplan auswählen. Der Lite-Plan bietet eine Erfassung von Metriken in Intervallen von einer Minute, Aufbewahrung für 15 Tage und ergänzende Alertfunktionalität.  Alternativ dazu können Sie den Premium-Plan auswählen, der die Verarbeitung größerer Volumen, längere Speicherzeiträume für Metriken und Zugriff auf die Service-APIs umfasst. Mit diesen APIs können Sie beispielsweise Metriken an den {{site.data.keyword.monitoringlong}}-Service senden oder von diesem abrufen. {{site.data.keyword.monitoringlong}} bietet die Erfassung von Metriken in Intervallen von einer Minute.  Im Rahmen des Lite-Plans werden die Metriken bei vollständiger Auflösung für 15 Tage gespeichert. Im Rahmen des Premium-Plans werden die Metriken bei vollständiger Auflösung für 45 Tage gespeichert.
 
-Vom traditionellen {{site.data.keyword.monitoringshort}}-Service wurden Metriken in der vom Service definierten Häufigkeit (ab 30 Sekunden) erfasst und mit der Zeit für 1 Stunde zusammengefasst. {{site.data.keyword.monitoringlong}} bietet nun eine vollständige Auflösungserfassung mit 1 Minute. Beim Lite-Plan werden Metriken 15 Tage lang aufbewahrt. Beim Premium-Plan beträgt die Aufbewahrungsdauer 45 Tage.
+Vom traditionellen {{site.data.keyword.monitoringshort}}-Service wurden Metriken in der vom Service definierten Häufigkeit (ab 30 Sekunden) erfasst und mit der Zeit für 1 Stunde zusammengefasst. {{site.data.keyword.monitoringlong}} bietet nun eine vollständige Auflösungserfassung mit 1 Minute.  Beim Lite-Plan werden Metriken 15 Tage lang aufbewahrt.  Beim Premium-Plan beträgt die Aufbewahrungsdauer 45 Tage.
 
-Weitere Informationen zum {{site.data.keyword.monitoringlong}}-Service finden Sie in der Dokumentation unter [Einführung in Monitoring-Service](/docs/services/cloud-monitoring/index.html#getting-started-with-ibm-cloud-monitoring) oder im Blogbeitrag [IBM Cloud Monitoring – Service Refresh with New Features![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link")](https://www.ibm.com/blogs/bluemix/2017/07/ibm-cloud-monitoring-service-refresh-new-features/).
+Weitere Informationen zum {{site.data.keyword.monitoringlong}}-Service finden Sie in der Dokumentation unter [Einführung in Monitoring-Service](/docs/services/cloud-monitoring/index.html#getting-started-with-ibm-cloud-monitoring) oder im Blogbeitrag [IBM Cloud Monitoring – Service Refresh with New Features![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link")](https://www.ibm.com/blogs/bluemix/2017/07/ibm-cloud-monitoring-service-refresh-new-features/).
 
 ### Upgrade von {{site.data.keyword.contdelivery_short}}
 Datum der Neuerung: 11. Juli 2017
@@ -491,14 +491,14 @@ Datum der Neuerung: 5. Juni 2017
 
 Apache Spark greift auf Daten in IBM Cloud Object Storage über einen Speicherconnector zu, der auf der Stocator-Technologie basiert, implizit für Objektspeicher konzipiert ist und daher schneller als herkömmliche Objektspeicherconnectors arbeitet. Als Benutzer müssen Sie den Apache Spark-Code weder ändern noch erneut kompilieren.
 
-Im Blogbeitrag [Access and Analyze data in IBM Cross Region Cloud Object Storage](https://www.ibm.com/blogs/bluemix/2017/06/access-analyze-data-ibm-cross-region-cloud-object-storage/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link") ist die Verwendung von Daten in IBM Cloud Object Storage mit {{site.data.keyword.sparks}} unter {{site.data.keyword.Bluemix_notm}} und IBM Data Science Experience (DSx) beschrieben.
+Im Blogbeitrag [Access and Analyze data in IBM Cross Region Cloud Object Storage](https://www.ibm.com/blogs/bluemix/2017/06/access-analyze-data-ibm-cross-region-cloud-object-storage/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link") ist die Verwendung von Daten in IBM Cloud Object Storage mit {{site.data.keyword.sparks}} unter {{site.data.keyword.Bluemix_notm}} und IBM Data Science Experience (DSx) beschrieben.
 
 Bei Fragen und Kommentaren können Sie sich unter der Adresse [sparksrv@us.ibm.com](sparksrv@us.ibm.com) mit uns in Verbindung setzen. Ihre Meinung interessiert uns sehr!
 
 ### Neuer skalierbarer Plan für {{site.data.keyword.dashdbshort_notm}} for Transactions verfügbar
 Datum der Neuerung: 31. Mai 2017
 
-Für {{site.data.keyword.dashdbshort}} for Transactions ist ein neuer Plan verfügbar, der gemeinsam mit Ihrem Datenbankbedarf vergrößert werden kann. Der neue Flex-Plan ermöglicht Ihnen den Einstieg mit einem kompakten System, dessen Leistung und Speicherkapazität Sie später zügig und ohne großen Aufwand erhöhen können.{{site.data.keyword.dashdbshort}} for Transactions ist zu 100% mit Db2 kompatibel und bietet ein Service-Level-Agreement von 99,95% für Pläne mit hoher Verfügbarkeit.
+Für {{site.data.keyword.dashdbshort}} for Transactions ist ein neuer Plan verfügbar, der gemeinsam mit Ihrem Datenbankbedarf vergrößert werden kann. Der neue Flex-Plan ermöglicht Ihnen den Einstieg mit einem kompakten System, dessen Leistung und Speicherkapazität Sie später zügig und ohne großen Aufwand erhöhen können. {{site.data.keyword.dashdbshort}} for Transactions ist zu 100% mit Db2 kompatibel und bietet ein Service-Level-Agreement von 99,95% für Pläne mit hoher Verfügbarkeit.
 
 ### Neue Aktualisierungen des {{site.data.keyword.mobilepush}}-Service bei {{site.data.keyword.Bluemix_notm}}
 Datum der Neuerung: 24. Mai 2017
@@ -507,7 +507,7 @@ Die folgenden neuen Aktualisierungen sind für den {{site.data.keyword.mobilepus
 
 **Lite-Plan**: Neben dem bestehenden Basic-Plan für den {{site.data.keyword.mobilepush}}-Service wird ein Lite-Plan eingeführt. Mit dem neuen Plan können Benutzer bis zu einhunderttausend digitale Nachrichten pro Monat kostenlos senden. Bei einem Upgrade vom Lite-Plan auf den Basic-Plan werden für den Benutzer nach einer Million digitalen Nachrichten Gebühren fällig; die Zählung beginnt zu dem Zeitpunkt, an dem das Upgrade des Lite-Plans auf den Basic-Plan erfolgt.
 
-**Überwachung**: Sie können jetzt Informationen zu gesendeten Nachrichten und registrierten Geräten in der Konsole des {{site.data.keyword.mobilepush}}-Service einsehen. Außerdem können Sie REST-APIs für die Überwachung auf Nachrichtenebene einsetzen. Von der Nachrichtenübermittlung über die Nachrichtenzuteilung bis zum Nachrichtenempfang können Details durch die Konfiguration von Web-Hooks abgerufen werden. Weitere Informationen finden Sie unter [Überwachung für {{site.data.keyword.mobilepush}}](/docs/services/mobilepush/t_push_monitoring.html#monitor-notifications).
+**Überwachung**: Sie können jetzt Informationen zu gesendeten Nachrichten und registrierten Geräten in der Konsole des {{site.data.keyword.mobilepush}}-Service einsehen. Außerdem können Sie REST-APIs für die Überwachung auf Nachrichtenebene einsetzen. Von der Nachrichtenübermittlung über die Nachrichtenzuteilung bis zum Nachrichtenempfang können Details durch die Konfiguration von Web-Hooks abgerufen werden.  Weitere Informationen finden Sie unter [Überwachung für {{site.data.keyword.mobilepush}}](/docs/services/mobilepush/t_push_monitoring.html#monitor-notifications).
 
 **Web-Benachrichtigungen**: Sie können jetzt Benachrichtigungen an Safari-Web-Browser senden.
 
@@ -523,9 +523,9 @@ Früher mussten Sie eine lokale Version von IBM Streams installieren, um Python-
 
 Mit dem Kontext STREAMING_ANALYTICS_SERVICE können Sie eine Python-Anwendung an den {{site.data.keyword.streaminganalyticsshort}}-Service übergeben. Der {{site.data.keyword.streaminganalyticsshort}}-Service erfordert Python 3.5.
 
-Sie können mithilfe von Jupyter-Notizbüchern Python-Beispielanwendungen in IBM Data Science Experience (DSX) erstellen und diese Anwendungen direkt aus DSX an die {{site.data.keyword.streaminganalyticsshort}}-Instanz übergeben. Probieren Sie die Python-Beispielanwendungen für die Streamverarbeitung in Notizbüchern auf der [Seite der DSX-Community](https://datascience.ibm.com/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link") aus.
+Sie können mithilfe von Jupyter-Notizbüchern Python-Beispielanwendungen in IBM Data Science Experience (DSX) erstellen und diese Anwendungen direkt aus DSX an die {{site.data.keyword.streaminganalyticsshort}}-Instanz übergeben. Probieren Sie die Python-Beispielanwendungen für die Streamverarbeitung in Notizbüchern auf der [Seite der DSX-Community](https://datascience.ibm.com/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link") aus.
 
-Weitere Informationen zu den Aktualisierungen für den {{site.data.keyword.streaminganalyticsshort}}-Service enthält der Blogbeitrag [{{site.data.keyword.streaminganalyticsshort}} updates: DSX integration and easier Python development](https://www.ibm.com/blogs/bluemix/2017/05/streaming-analytics-updates-dsx-integration-easier-python-development/){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link").
+Weitere Informationen zu den Aktualisierungen für den {{site.data.keyword.streaminganalyticsshort}}-Service enthält der Blogbeitrag [{{site.data.keyword.streaminganalyticsshort}} updates: DSX integration and easier Python development](https://www.ibm.com/blogs/bluemix/2017/05/streaming-analytics-updates-dsx-integration-easier-python-development/){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link").
 
 ### Aktualisierungen für {{site.data.keyword.sparks}}: Apache Spark 2.1 wird jetzt unterstützt
 Datum der Neuerung: 21. April 2017
@@ -546,7 +546,7 @@ Früher mussten Sie eine lokale Version von IBM Streams installieren, um Python-
 
 Mit dem Kontext STREAMING_ANALYTICS_SERVICE können Sie eine Python-Anwendung an den {{site.data.keyword.streaminganalyticsshort}}-Service übergeben. Der {{site.data.keyword.streaminganalyticsshort}}-Service erfordert Python 3.5.
 
-Probieren Sie die Python-Beispielanwendungen für die Streamverarbeitung in Notizbüchern auf der [Seite der Community von IBM Data Science Experience](http://datascience.ibm.com){: new_window} ![Symbol für externen Link](../icons/launch-glyph.svg "Symbol für externen Link") aus. 
+Probieren Sie die Python-Beispielanwendungen für die Streamverarbeitung in Notizbüchern auf der [Seite der Community von IBM Data Science Experience](http://datascience.ibm.com){: new_window} ![Symbol für externen Link](../../icons/launch-glyph.svg "Symbol für externen Link") aus. 
 
 ### Aktualisierungen für {{site.data.keyword.sparks}}: Unterstützung von Notizbüchern in Data Science Experience jetzt verfügbar
 Datum der Neuerung: 11. April 2017
